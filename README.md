@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (Bossoff)
 
 <!--
 **bossoff/bossoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -7,7 +7,7 @@
 
 I'm a Professional in Clients and Server Side language / Design, I love working with the developer community, collaborate. I'm a Software Developer based in Lagos, Nigeria.🔥
 
-💬 <b>Ask me about:</b> Software Developer, Project Management, Community Management, IT Consultant, VueJS, Flutter, Performance, MVC, PHP, Laravel, Testing, Open Source, Web.
+💬 <b>Ask me about:</b> Software Developer, Project Management, Community Management, IT Consultant, Flutter, Performance, MVC, PHP, Laravel, Testing, Web App e.t.c.
 
  <h3>⚡️ What I do:</h3>
  
