@@ -5,7 +5,7 @@
 ### I'm a Nerd 🤖
 
 
-I'm a Professional in Clients and Server Side language / Design, I love working with the developer community, collaborate. I'm a Software Developer based in Lagos, Nigeria.🔥
+I'm a Professional in Clients and Server Side language / Design, I love working with the developer community and collaborate. I'm a Software Developer based in Lagos, Nigeria.🔥
 
 💬 <b>Ask me about:</b> Software Developer, Project Management, Community Management, IT Consultant, Flutter, Performance, MVC, PHP, Codeignater, Laravel, CorePHP, Testing, Web App e.t.c.
 
