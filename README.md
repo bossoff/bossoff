@@ -20,7 +20,8 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 - 💻 Project Manager at <a href="">Stakesheld</a>
 - 💻 Admin at <a href="http://edu.simdols.com/">Simdols Edu</a>
 - 💻 Back-End Developer at <a href="http://simdols.com/">Simdols Technology</a>
-- 💻 Freelance at <a href="https://fiverr.com/bossoff/">Fiverr</a><!--
+- 💻 Freelance at <a href="https://fiverr.com/bossoff/">Fiverr</a>
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
