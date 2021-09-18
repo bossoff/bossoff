@@ -12,7 +12,7 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
  <h3>⚡️ What I do:</h3>
  
 - <b>Software Developer 💻</b>
-- Founder of <a href="">OutHub</a>
+<!--- Founder of <a href="">OutHub</a>-->
 - 💻 Senior Software Developer at <a href="http://lucidinitiatives.com/">LucidInitiatives</a>
 - 💻 C.T.O at <a href="https://eazymobile.net/">Eazymobile</a>
 - 💻 C.T.O at <a href="https://ogdams.com/">Ogdams</a>
