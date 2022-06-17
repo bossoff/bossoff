@@ -41,6 +41,9 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 <img src="https://github-readme-stats.vercel.app/api?username=bossoff&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://camo.githubusercontent.com/feb6c6fdda31b5117da21f26518f47d9db9314e89fcdd795e67068da9c7eb5f1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706177616e267468656d653d666c61672d696e64696126686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=bossoff&amp;theme=flag-nigeria&amp;hide_border=false" style="max-width: 100%;">
 
+<img src="https://camo.githubusercontent.com/afd4736d8de9e3e427a4d06ba8efbea7b5d2ce78d0bcdd91ab18cdc395cf1ec4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50617261646f7832343035266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d616c676f6c6961" alt="Paradox2405" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&amp;layout=compact&amp;langs_count=6&amp;theme=algolia" style="max-width: 100%;">
+
+
 <img src="#" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
 
 🥂 Cheers!
