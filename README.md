@@ -41,6 +41,6 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 <img src="https://github-readme-stats.vercel.app/api?username=bossoff&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://camo.githubusercontent.com/feb6c6fdda31b5117da21f26518f47d9db9314e89fcdd795e67068da9c7eb5f1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706177616e267468656d653d666c61672d696e64696126686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=bossoff&amp;theme=flag-nigeria&amp;hide_border=false" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/d8db591bb671b6251bc2a9afc8e155cb6da1e924330fb5ffeb233e2f94b073f7/68747470733a2f2f6170692e6461696c792e6465762f64657663617264732f32646632363937373764663934353539613035636632616164346138323338352e706e673f723d756272" width="400" alt="Denver Shenal's Dev Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
+<img src="#" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
 
 🥂 Cheers!
