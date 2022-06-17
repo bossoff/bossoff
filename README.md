@@ -36,4 +36,7 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 -->
 📫 How to reach me: <a href="https://twitter.com/rajihboss">@Rajihboss</a> || <a href="https://rajisamad.com">iamrajisamad</a> || <a href="https://facebook.com/kvngraji.samad">@Rajih</a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=bossoff&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://camo.githubusercontent.com/feb6c6fdda31b5117da21f26518f47d9db9314e89fcdd795e67068da9c7eb5f1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706177616e267468656d653d666c61672d696e64696126686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=bossoff&amp;theme=flag-nigeria&amp;hide_border=false" style="max-width: 100%;">
+
 🥂 Cheers!
