@@ -68,6 +68,6 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 
 
 
-<img src="#" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
+<img src="[#](https://avatars.githubusercontent.com/u/30760187?v=4)" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
 
 🥂 Cheers!
