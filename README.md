@@ -66,8 +66,6 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 </a> -->
 
 
-[
-
-<img src="https://avatars.githubusercontent.com/u/30760187?v=4" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">](https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?)
+<a href="https://app.daily.dev/bossoff"><img src="https://api.daily.dev/devcards/d3bf99495cfb403da0ce1135a4c6bcae.png?r=k7p" width="400" alt="Raji Samad's Dev Card"/></a>
 
 🥂 Cheers!
