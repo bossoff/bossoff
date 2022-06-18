@@ -48,17 +48,28 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
  
 <!--  <a href="https://reddit.com/user/imthepk" rel="nofollow"><img src="https://camo.githubusercontent.com/e456013e622cd695f8cef80c99b05d4bb48668eceb5fd69d70bdc6875e9a5c28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d2532334646343530302e7376673f6c6f676f3d526564646974266c6f676f436f6c6f723d7768697465" alt="Reddit" data-canonical-src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" style="max-width: 100%;"></a> -->
  
- 
 </p>
 
 
 
 <h1 dir="auto"><a id="user-content-github-stats-" class="anchor" aria-hidden="true" href="#github-stats-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>GitHub Stats :</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bossoff&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://camo.githubusercontent.com/feb6c6fdda31b5117da21f26518f47d9db9314e89fcdd795e67068da9c7eb5f1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706177616e267468656d653d666c61672d696e64696126686964655f626f726465723d74727565" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=bossoff&amp;theme=flag-nigeria&amp;hide_border=false" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/afd4736d8de9e3e427a4d06ba8efbea7b5d2ce78d0bcdd91ab18cdc395cf1ec4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50617261646f7832343035266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d616c676f6c6961" alt="Paradox2405" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&amp;layout=compact&amp;langs_count=6&amp;theme=algolia" style="max-width: 100%;">
+
+![Bossoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossoff&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff)](https://github.com/bossoff/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&layout=compact)](https://github.com/bossoff/github-readme-stats)
+
+<a href="https://github.com/bossoff/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bossoff&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/bossoff/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bossoff&repo=convoychat" />
+</a>
+
+
 
 
 <img src="#" width="400" alt="Bossoff Card" data-canonical-src="https://api.daily.dev/devcards/2df269777df94559a05cf2aad4a82385.png?r=ubr" style="max-width: 100%;">
