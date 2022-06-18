@@ -56,7 +56,7 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 
 
 
-![Bossoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossoff&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&layout=compact)](https://github.com/bossoff/github-readme-stats)
+![Bossoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossoff&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&layout=compact)](https://github.com/bossoff/github-readme-stats)
 
 <!-- <a href="https://github.com/bossoff/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bossoff&repo=github-readme-stats" />
