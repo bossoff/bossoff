@@ -72,37 +72,37 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
    <a href="#">
     <img
       alt="Youtube"
-      src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=flat"
     />
   </a>
   <a href="https://twitter.com/rajihboss">
     <img
       alt="Twitter"
-      src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"
     />
   </a>
   <a href="https://instagram.com/bossoff.1">
     <img
       alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat"
     />
   </a>
   <a href="https://www.linkedin.com/in/bossoff">
     <img
       alt="Linkedin"
-      src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
     />
   </a>
   <a href="#">
     <img
       alt="WhatsApp"
-      src="https://img.shields.io/badge/WhatsApp-25D366?logo=WhatsApp&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/WhatsApp-25D366?logo=WhatsApp&logoColor=white&style=flat"
     />
   </a>
   <a href="#">
     <img
       alt="Facebook"
-      src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&style=flat"
     />
   </a>
  
