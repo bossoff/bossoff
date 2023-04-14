@@ -1,5 +1,8 @@
 ### Hi there 👋 (Bossoff)
 
+
+[![An image of @bossoff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bossoff)](https://holopin.io/@bossoff)
+
  ![](https://komarev.com/ghpvc/?username=bossoff&label=PROFILE+VIEWS)
 
 <!--
