@@ -21,7 +21,7 @@ I'm a Professional in Clients and Server Side language / Design, I love working 
 - 💼 Founder of <a href="">OutHub Technology Limited</a>
 - 💻 Senior Software Developer at <a href="">LucidInitiatives</a>
 - 💻 Founder of <a href="">VConnect</a>
-- 💻 C.T.O at <a href="https://eazymobile.net/">Eazymobile</a>
+- 💻 C.T.O at <a href="https://eazymobile.ng/">Eazymobile</a>
 - 💻 C.T.O at <a href="https://ogdams.com/">Ogdams</a>
 - 💻 C.T.O at <a href="https://www.modelc.com.ng/">Modelc</a>
 - 💻 Project Manager at <a href="">Stakesheld</a>
