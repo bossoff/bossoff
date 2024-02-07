@@ -26,6 +26,11 @@ My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **Java
 </div>
 
 # 🌐Socials
+
+> \[!IMPORTANT]
+>
+> 📫 How to reach me ⭐️
+> 
 <p dir="auto" align="center">
  
    <a href="#">
@@ -101,7 +106,7 @@ My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **Java
 ![Bossoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossoff&show_icons=true&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoff&layout=compact)](https://github.com/bossoff/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossoff)](https://github.com/bossoff/github-readme-stats)
+
 
 <!-- <a href="https://github.com/bossoff/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bossoff&repo=github-readme-stats" />
@@ -111,7 +116,7 @@ My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **Java
 </a> -->
 
 
-[![An image of @bossoff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bossoff)](https://holopin.io/@bossoff)
+<!-- [![An image of @bossoff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bossoff)](https://holopin.io/@bossoff) -->
 
 
 <a href="https://app.daily.dev/bossoff"><img src="https://api.daily.dev/devcards/d3bf99495cfb403da0ce1135a4c6bcae.png?r=k7p" width="400" alt="Raji Samad's Dev Card"/></a>
