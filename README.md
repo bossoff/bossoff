@@ -17,7 +17,9 @@
 
 My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **JavaScript(NodeJs, Express), Database(SQL, Postgres), SaaS solutions, Testing methodologies, Frontend technologies (HTML, CSS, Bootstrap, jQuery, Vue), Flutter, API development (RESTful APIs) and integrating with third-party service**. I'm well-versed in tools like **Git, Postman, Webpack, Composer, and Talend, have experience with servers like Apache HTTP Server and Nginx**. Throughout my career, I've successfully delivered projects across diverse industries, including **School Management Systems, ERP Solutions, and Telecom applications, Payment Solutions, Utility Bills, Loan applications, Bulk SMS solutions**. My commitment to professionalism and track record of delivering high-quality solutions make me a valuable asset to any software development project.
 
-<br>
+<be>
+
+
 ![](https://komarev.com/ghpvc/?username=bossoff&label=PROFILE+VIEWS)
 
 
