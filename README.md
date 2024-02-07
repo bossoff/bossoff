@@ -20,5 +20,5 @@ My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **Java
 <br>
 ![](https://komarev.com/ghpvc/?username=bossoff&label=PROFILE+VIEWS)
 
-<br>
+
 </div>
