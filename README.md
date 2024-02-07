@@ -9,6 +9,6 @@
 
 <br>
 
-# Welcome to the daily.dev repository
+# Hello Chief! Welcome to my GitHub page
 
 </div>
