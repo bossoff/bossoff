@@ -9,7 +9,7 @@
 
 <br>
 
-# 👋 Greetings, Earthling! Welcome to my GitHub page
+# 👋 Greetings, Earthling! 
 
 ### Call me Bossoff 🤖💜
 
