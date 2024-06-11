@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/30760187?v=4" alt="Bossoff" height="80">
-
+<!--<img src="https://avatars.githubusercontent.com/u/30760187?v=4" alt="Bossoff" height="80">-->
+<a href="https://app.daily.dev/bossoff"><img src="https://api.daily.dev/devcards/v2/NOg4Rz9rhd3VwGanqfVrZ.png?r=a7z&type=wide" width="652" alt="Raji Samad's Dev Card"/></a>
 <!-- <img src="assets/github-repo-logo.gif" alt="daily.dev animated logo" height="80"> -->
 
 <br>
