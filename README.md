@@ -96,6 +96,7 @@ My skill set includes technologies such as **PHP(Laravel, Codeigniter)**, **Java
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" />
  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+ <img alt="React" src="https://img.shields.io/badge/react-20232A?logo=React&logoColor=61DAFB&style=for-the-badge" />
   <!-- <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" /> -->
   <!-- <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" /> -->
 </p>
