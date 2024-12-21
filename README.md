@@ -5,7 +5,7 @@
 
 <!--<img src="https://avatars.githubusercontent.com/u/30760187?v=4" alt="Bossoff" height="80">-->
 <!--<a href="https://app.daily.dev/bossoff"><img src="https://api.daily.dev/devcards/v2/NOg4Rz9rhd3VwGanqfVrZ.png?r=a7z&type=wide" width="652" alt="Raji Samad's Dev Card"/></a>-->
-<img src="https://scontent.flos5-3.fna.fbcdn.net/v/t39.30808-6/465797296_8643839832372003_4002280969140835601_n.jpg" alt="daily.dev animated logo" width="752"> 
+<img src="https://scontent.flos5-3.fna.fbcdn.net/v/t39.30808-6/465797296_8643839832372003_4002280969140835601_n.jpg" alt="logo" width="752"> 
 
 
 
